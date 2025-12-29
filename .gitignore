@@ -3,4 +3,4 @@ bin/
 build/
 
 
-src/db.properties
+src/main/java/db.properties
